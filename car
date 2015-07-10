@@ -1,0 +1,14 @@
+class Teste
+
+	def run
+		puts "runing"
+	end
+
+	def stop
+		puts "parar"
+		end
+	end
+
+	def teste
+	end
+end
